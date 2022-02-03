@@ -5,4 +5,4 @@ Lista zadan do wykonania, aplikacja posiada funkcje :
 3-oznaczenie wykoniania zadania,
 4-edycja zadania.
 
-ttps://piotrliszka1.github.io/todoList.io/
+https://piotrliszka1.github.io/todoList.io/
